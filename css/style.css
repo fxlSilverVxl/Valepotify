@@ -38,4 +38,9 @@ body {
     width: 100%;
     height: 80%;
     background-color: rgb(130, 226, 173);
+
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    overflow-y: scroll;
 }
